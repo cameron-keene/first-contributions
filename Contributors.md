@@ -3877,6 +3877,5 @@ Disguy
 - [Gabriel Brosula](https://github.com/gabrielbrosula)
 - [Dave D](https://github.com/Dnasty777)
 - Nikos Dupuy
-- [Cameron Keene](https://github.com/cameron-keene)
 
 <!-- prettier-ignore-end -->
